@@ -1,1 +1,2 @@
-print ("hello_world")
+def mean (listsofnumbers):
+    return sum(listsofnumbers)/ len(listsofnumbers)
